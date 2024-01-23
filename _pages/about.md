@@ -17,6 +17,7 @@ Notes
 1. [Introduction](/files/l1/)
 1. [Uninformed Search](/files/l2/)
 1. [Informed Search](/files/l3/)
+1. [Local Search](/files/l4/)
 
 Acknowledgements
 ======
