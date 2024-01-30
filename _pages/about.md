@@ -18,6 +18,7 @@ Notes
 1. [Uninformed Search](/files/l2/)
 1. [Informed Search](/files/l3/)
 1. [Local Search](/files/l4/)
+1. [Constraint Satisfaction Problems](/files/l5/)
 
 Acknowledgements
 ======
