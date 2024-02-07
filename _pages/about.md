@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "Contents"
-excerpt: "CSC384 Notes"
 author_profile: false
 redirect_from:
   - /about/
