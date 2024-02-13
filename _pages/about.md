@@ -18,6 +18,7 @@ Notes
 1. [Informed Search](/files/l3/)
 1. [Local Search](/files/l4/)
 1. [Constraint Satisfaction Problems](/files/l5/)
+1. [Games: Adversarial Search](/files/l6/)
 
 Acknowledgements
 ======
