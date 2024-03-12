@@ -19,8 +19,8 @@ Notes
 1. [Local Search](/files/l4/)
 1. [Constraint Satisfaction Problems](/files/l5/)
 1. [Games: Adversarial Search](/files/l6/)
-1. [Bayesian Networks](/files/l7/)
-2. [Variable Elimination](/files/l8/)
+1. [Bayesian Networks: Part 1](/files/l7/)
+2. [Bayesian Networks: Part 2](/files/l8/)
 
 Acknowledgements
 ======
