@@ -21,6 +21,7 @@ Notes
 1. [Games: Adversarial Search](/files/l6/)
 1. [Bayesian Networks: Part 1](/files/l7/)
 2. [Bayesian Networks: Part 2](/files/l8/)
+2. [Knowledge Representation and Reasoning](/files/l9/)
 
 Acknowledgements
 ======
