@@ -25,5 +25,5 @@ Notes
 
 Acknowledgements
 ======
-The credit for an earlier version of this website goes to [Priyanka Golia](https://priyanka-golia.github.io), [Ang Zheng Yong](https://github.com/arsatis), [Guo Yichao](https://github.com/gycc7253), Khiew Zhi Kai, [Vincent Neo](https://github.com/tenvinc), [Gabriel Sim](https://github.com/GabrielSimbingyang), [Pang Zhanzhong](https://github.com/pangzhan27), and [Yang Suwei](https://github.com/swxsw).
+This version of the notes is maintained by [Arijit Shaw](https://arijitsh.github.io). The credit for an earlier version of this website goes to [Priyanka Golia](https://priyanka-golia.github.io), [Ang Zheng Yong](https://github.com/arsatis), [Guo Yichao](https://github.com/gycc7253), Khiew Zhi Kai, [Vincent Neo](https://github.com/tenvinc), [Gabriel Sim](https://github.com/GabrielSimbingyang), [Pang Zhanzhong](https://github.com/pangzhan27), and [Yang Suwei](https://github.com/swxsw).
 
